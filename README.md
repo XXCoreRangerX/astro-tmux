@@ -10,8 +10,6 @@
 <p align="center">
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/tag/XXCoreRangerX/astro-tmux?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 
-<img alt="GitHub all releases" src="https://img.shields.io/apm/dm/astro-tmux?color=%2328293D&logo=atom&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
-
 <img alt="Atom compatibility" src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=%3E%3D1.13.0&logo=atom&logoColor=eceff4&colorA=1B1C1E&colorB=28293D">
 </p>
 
