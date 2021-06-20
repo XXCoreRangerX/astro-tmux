@@ -9,6 +9,8 @@
 
 <p align="center">
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/tag/XXCoreRangerX/astro-tmux?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xxcorerangerx/astro-tmux?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 </p>
 
 <p align="center"><img alt="Astro for tmux" src="https://user-images.githubusercontent.com/61242573/122642997-7dc87000-d10d-11eb-9f62-7e0e51117ada.png"></p>
@@ -17,8 +19,6 @@
 
 ## Installation
 The easiest installation can be done using [tpm](https://github.com/tmux-plugins/tpm), however you can use any other plug manager, or install manually.
-
-<br>
 
 ### Installing using tpm
 1. Add the following to `.tmux.conf`:
