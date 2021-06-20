@@ -8,7 +8,7 @@
 #   https://tmux.github.io
 
 ASTRO_TMUX_COLOR_THEME_FILE=src/astro.conf
-ASTRO_TMUX_VERSION=1.1.1
+ASTRO_TMUX_VERSION=1.1.2
 ASTRO_TMUX_STATUS_CONTENT_FILE="src/astro-status-content.conf"
 ASTRO_TMUX_STATUS_CONTENT_NO_PATCHED_FONT_FILE="src/astro-status-content-no-patched-font.conf"
 ASTRO_TMUX_STATUS_CONTENT_OPTION="@astro_tmux_show_status_content"

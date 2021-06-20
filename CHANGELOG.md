@@ -1,3 +1,6 @@
+## v1.1.2
+* Fixed typos.
+
 ## v1.1.1
 * README update.
 
